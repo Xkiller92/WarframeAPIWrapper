@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarFrameApiWrapper", "WarFrameApiWrapper\WarFrameApiWrapper.csproj", "{3149A01C-FD2E-4035-9896-23A3CF34EAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeApiTester", "WarframeApiTester\WarframeApiTester.csproj", "{936A93E4-3F05-477A-9231-BBE86C3E2014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3149A01C-FD2E-4035-9896-23A3CF34EAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3149A01C-FD2E-4035-9896-23A3CF34EAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3149A01C-FD2E-4035-9896-23A3CF34EAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3149A01C-FD2E-4035-9896-23A3CF34EAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936A93E4-3F05-477A-9231-BBE86C3E2014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936A93E4-3F05-477A-9231-BBE86C3E2014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936A93E4-3F05-477A-9231-BBE86C3E2014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936A93E4-3F05-477A-9231-BBE86C3E2014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D159FAD8-7AB4-4B7C-98CC-EE88A7346183}
+	EndGlobalSection
+EndGlobal

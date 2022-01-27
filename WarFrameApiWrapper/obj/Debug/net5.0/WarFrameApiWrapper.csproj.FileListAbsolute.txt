@@ -1,0 +1,12 @@
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\bin\Debug\net5.0\WarFrameApiWrapper.deps.json
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\bin\Debug\net5.0\WarFrameApiWrapper.dll
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\bin\Debug\net5.0\ref\WarFrameApiWrapper.dll
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\bin\Debug\net5.0\WarFrameApiWrapper.pdb
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\WarFrameApiWrapper.csproj.AssemblyReference.cache
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\WarFrameApiWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\WarFrameApiWrapper.AssemblyInfoInputs.cache
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\WarFrameApiWrapper.AssemblyInfo.cs
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\WarFrameApiWrapper.csproj.CoreCompileInputs.cache
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\WarFrameApiWrapper.dll
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\ref\WarFrameApiWrapper.dll
+C:\Users\Xkiller\source\repos\WarFrameApiWrapper\WarFrameApiWrapper\obj\Debug\net5.0\WarFrameApiWrapper.pdb

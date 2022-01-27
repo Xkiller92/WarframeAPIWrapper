@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZ+GlGqSpiNgkOx0C3xHjZWT5vc98nXKvJ6UYZ5siDZqKNaPKmncwesbZ2WYOjm2/GT25npSBu0l5a5VFbTTfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xkiller\\source\\repos\\WarFrameApiWrapper\\WarFrameApiWrapper\\WarFrameApiWrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xkiller\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
